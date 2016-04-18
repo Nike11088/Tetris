@@ -1,8 +1,0 @@
-E:\Никита\Программирование\C#\Projects\01 MyProjects\Tetris\Tetris\bin\Release\Tetris.exe.config
-E:\Никита\Программирование\C#\Projects\01 MyProjects\Tetris\Tetris\bin\Release\Tetris.exe
-E:\Никита\Программирование\C#\Projects\01 MyProjects\Tetris\Tetris\bin\Release\Tetris.pdb
-E:\Никита\Программирование\C#\Projects\01 MyProjects\Tetris\Tetris\obj\Release\Tetris.MainForm.resources
-E:\Никита\Программирование\C#\Projects\01 MyProjects\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
-E:\Никита\Программирование\C#\Projects\01 MyProjects\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
-E:\Никита\Программирование\C#\Projects\01 MyProjects\Tetris\Tetris\obj\Release\Tetris.exe
-E:\Никита\Программирование\C#\Projects\01 MyProjects\Tetris\Tetris\obj\Release\Tetris.pdb
